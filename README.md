@@ -16,7 +16,7 @@ The pretrained model was trained based on contrast-enhanced CT images from 120 p
 The training progress is shown as the following figure
 ![progress](https://user-images.githubusercontent.com/79628308/192688658-20c31f6a-3e8c-4a76-babc-77d8cedb7763.png)
 
-On two independent test datasets (n = 33 and 55), the pretrained model achieved a dice coefficient of 0.788 (std: 0.106) and 0.829 (std: 0.057).
+On two independent test datasets (n = 33 and 55), the pretrained model achieved a dice coefficient of 0.798 (std: 0.106) and 0.829 (std: 0.057).
 
 # 4 Citation
 ```
